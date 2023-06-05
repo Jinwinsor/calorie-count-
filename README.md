@@ -6,8 +6,6 @@ This app is a Django-based application that enables users to effortlessly track 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinwinsor&layout=compact)](https://github.com/Jinwinsor/calorie-count-/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Jinwinsor&show_icons=true&locale=en&layout=compact&hide=python)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinwinsor&show_icons=true&theme=radical)
 
