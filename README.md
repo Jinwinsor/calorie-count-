@@ -2,7 +2,7 @@
 This app is a Django-based application that enables users to effortlessly track their daily calorie intake and maintain a healthy and balanced diet.
 
  <h3>Hi!🖐️</h3>
- <h3>I made an expense tracker with using Django, tailwindCSS, and JavaScript(JSON). It displays your expenses categorized by categories and dates.</h3>
+ <h4>I made a calorie count app with using Django, tailwindCSS, and JavaScript(JSON). It displays your expenses categorized by categories and dates.</h3>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jinwinsor&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
@@ -22,7 +22,8 @@ This app is a Django-based application that enables users to effortlessly track 
 
 <hr/>
 
- 
- <img width="1421" alt="Screenshot 2023-05-31 at 1 26 56 AM" src="https://github.com/Jinwinsor/Finance_tracker/assets/91623627/81fe2d36-c8c1-4022-ae41-46fb062ac99d">
- <img width="1012" alt="Screenshot 2023-05-31 at 1 27 21 AM" src="https://github.com/Jinwinsor/Finance_tracker/assets/91623627/021a42c3-10a8-4ea9-ad4a-aec409e69942">
-<img width="973" alt="Screenshot 2023-05-31 at 1 27 26 AM" src="https://github.com/Jinwinsor/Finance_tracker/assets/91623627/a7c980e5-5d74-428c-b5cf-ba1c4b71d6b3">
+ <img width="615" alt="Screenshot 2023-06-05 at 2 25 05 AM" src="https://github.com/Jinwinsor/calorie-count-/assets/91623627/fff150e0-5b33-4e88-a005-0af578148fd7">
+<img width="1400" alt="Screenshot 2023-06-05 at 2 24 56 AM" src="https://github.com/Jinwinsor/calorie-count-/assets/91623627/cc8e0fba-6282-4075-b27b-7fcaecf83dd1">
+<img width="1411" alt="Screenshot 2023-06-05 at 2 24 48 AM" src="https://github.com/Jinwinsor/calorie-count-/assets/91623627/d4ed9bc6-7d72-4d66-8799-d1c3e5db8653">
+
+
