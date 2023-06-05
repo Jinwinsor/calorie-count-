@@ -6,7 +6,8 @@ This app is a Django-based application that enables users to effortlessly track 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jinwinsor&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinwinsor&show_icons=true&theme=radical)
 
